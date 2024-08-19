@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MaayanAimelak
+- 👋 Hi, I’m Maayan Aimelak
 - 👀 I’m interested in DevOps, Cloud Technologies, Automation.
 - 🌱 I’m currently learning Advanced DevOps practices, Kubernetes, and Terraform.
 - 💞️ I’m looking to collaborate on DevOps projects, automation workflows, and cloud infrastructure setups.
