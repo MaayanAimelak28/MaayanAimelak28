@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Maayan Aimelak
-- 👀 I’m interested in DevOps, Cloud Technologies and Automation.
-- 🌱 I’m currently learning Advanced DevOps practices, Kubernetes and Terraform.
-- 💞️ I’m looking to collaborate on DevOps projects, automation workflows and cloud infrastructure setups.
-- 📫 How to reach me: maayanaimelak@gmail.com
+- 👀 I’m passionate about Software Development, DevOps, Cloud Technologies, and Automation.
+- 🌱 Currently focused on mastering Kubernetes, Terraform, and advanced DevOps practices.
+- 💼 Actively seeking a Junior Software Developer or Junior DevOps Engineer position to apply my skills and grow in the tech field.  
+- 💞️ Open to collaboration on DevOps projects, CI/CD pipelines, cloud automation, and software development initiatives.
+- 📫 Reach me at: maayanaimelak@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Proudly representing my identity as a woman, Jewish, and Ethiopian in the DevOps field. I'm passionate about bringing my unique background and diverse perspectives to the tech world.
 <!---
 MaayanAimelak28/MaayanAimelak28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
